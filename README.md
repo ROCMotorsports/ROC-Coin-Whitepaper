@@ -45,7 +45,7 @@ ROC Coin is a **community token** for the Road Owners Club. It powers membership
 **Mint Authority:** 2-of-3 multisig (Treasury only; mints go to Treasury first)  
 **Mint Cap:** New mints ≤ **10% of circulating supply** per rolling 12 months  
 **Burn:** Contract burn / 0x...dEaD; target ≈ **10% of net new annual mints**  
-**Distribution:** Airdrops (500 ROC/member), rewards & events, time-locked Treasury  
+**Distribution:** Airdrops (**750 ROC/member**), rewards & events, time-locked Treasury
 **Taxes:** 0% transfer
 
 ### Minting Policy
@@ -94,7 +94,7 @@ ROC Coin is a **community token** for the Road Owners Club. It powers membership
 
 **Phase 1 — Launch & Club Integration**  
 Deploy v2, verify on BscScan, publish whitepaper & tokenomics.  
-Mint member airdrops (within cap); start public Mint/Burn ledger; initial policy burn.
+Mint member airdrops (**750 ROC/member**) within cap; start public Mint/Burn ledger; initial policy burn.
 
 **Phase 2 — Merchandise Payments**  
 Enable ROC on official store.  
