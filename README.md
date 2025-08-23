@@ -8,9 +8,10 @@
 **Decimals:** 18  
 **Transfer Tax:** 0%  
 **Whitepaper v2:** [ROC_Coin_Lite_Whitepaper_v2.pdf](./ROC_Coin_Lite_Whitepaper_v2.pdf)  
-**Permalink (for BscScan):** https://github.com/ROCMotorsports/ROC-Coin-Whitepaper/blob/49ba461096a964bc8ac281bead15fb49b855aeaa/ROC_Coin_Lite_Whitepaper_v2.pdf
+**Permalink (for BscScan):** https://github.com/ROCMotorsports/ROC-Coin-Whitepaper/blob/8c35e3974f31f6b6f53605c316ea614b35828fa8/ROC_Coin_Lite_Whitepaper_v2.pdf
 
 **Archived (deprecated) v1:** [ROC_Coin_Lite_Whitepaper 1.pdf](./ROC_Coin_Lite_Whitepaper%201.pdf)
+
 
 ---
 
