@@ -7,8 +7,9 @@
 **Network:** BNB Smart Chain (BEP-20)  
 **Decimals:** 18  
 **Transfer Tax:** 0%  
-**Whitepaper v2:** [ROC_Coin_Lite_Whitepaper_v2.pdf](./ROC_Coin_Lite_Whitepaper_v2.pdf)
-**Website:** https://roccoin.org
+**Whitepaper v2:** [ROC_Coin_Lite_Whitepaper_v2.pdf](./ROC_Coin_Lite_Whitepaper_v2.pdf) 
+**Archived (deprecated) v1:** [ROC_Coin_Lite_Whitepaper 1.pdf](./ROC_Coin_Lite_Whitepaper%201.pdf)
+
 
 ---
 
